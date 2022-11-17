@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-![Joke](https://raw.githubusercontent.com/WadadParker/yoda-speak/main/joke.PNG)
+![Joke](https://raw.githubusercontent.com/WadadParker/Joke-API/main/joke.PNG)
 
 ## Connect with me
 
